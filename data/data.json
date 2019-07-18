@@ -1,0 +1,19 @@
+{
+	"list":[
+		{
+			words:'qqqqqqqqq',
+			times:'rrrrr',
+			src:'./data/images/download9.jpg'
+		},
+		{
+			words:'qqqqqqqqq',
+			times:'yyyyyyy',
+			src:'./data/images/download9.jpg'
+		},
+		{
+			words:'qqqqqqqqq',
+			times:'iiiiiiii',
+			src:'./data/images/download9.jpg'
+		}
+	]
+}
